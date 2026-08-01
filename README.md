@@ -15,7 +15,7 @@ I enjoy developing AI-powered applications, solving real-world problems, and con
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/palmathew
 
-💻 **GitHub:** https://github.com/palmathew7
+💻 **GitHub:** https://github.com/palmathew14
 
 ---
 
