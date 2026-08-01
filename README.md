@@ -221,11 +221,11 @@ Worked on an **Arduino-based Security Alert System** using IR Sensors and Servo 
 
 <p align="center">
 
-<a href="https://github.com/palmathew7">
+<a href="https://github.com/palmathew14">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/palmathew">
+<a href="https://www.linkedin.com/in/palmathew/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
