@@ -50,26 +50,37 @@ I enjoy developing AI-powered applications, solving real-world problems, and con
 ---
 
 <details>
-
 <summary><b>📊 GitHub Statistics</b></summary>
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=palmathew14&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![](https://streak-stats.demolab.com?user=palmathew14&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=palmathew14&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=palmathew14&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=palmathew14&theme=tokyonight&hide_border=true"/>
 
-![](https://komarev.com/ghpvc/?username=palmathew14&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)
+</p>
 
-![](https://img.shields.io/github/followers/palmathew14?style=for-the-badge&logo=github)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmathew14&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=palmathew14&style=for-the-badge&label=Profile+Views"/>
+
+<img src="https://img.shields.io/github/followers/palmathew14?style=for-the-badge&logo=github&label=Followers"/>
+
+</p>
 
 </details>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=palmathew7&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palmathew14&theme=tokyo-night"/>
 
 ---
 
