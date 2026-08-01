@@ -55,15 +55,15 @@ I enjoy developing AI-powered applications, solving real-world problems, and con
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=palmathew7&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=palmathew14&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=palmathew7&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=palmathew14&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=palmathew7&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=palmathew14&layout=compact&theme=tokyonight&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=palmathew7&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=palmathew14&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)
 
-![](https://img.shields.io/github/followers/palmathew7?style=for-the-badge&logo=github)
+![](https://img.shields.io/github/followers/palmathew14?style=for-the-badge&logo=github)
 
 </details>
 
