@@ -1,107 +1,124 @@
-# 👋 Hi, I'm Palmathew V
+# <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;AI+%26+Machine+Learning+Enthusiast;Electronics+%26+Communication+Engineering+Student;Open+Source+Learner;Future+Software+Engineer" />
-</p>
+# 👋 Hi, I'm **Palmathew V**
 
-<p align="center">
-  <a href="https://github.com/palmathew7">
-    <img src="https://img.shields.io/github/followers/palmathew7?label=Followers&style=for-the-badge">
-  </a>
-  <a href="https://github.com/palmathew7">
-    <img src="https://img.shields.io/github/stars/palmathew7?style=for-the-badge">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=palmathew7&style=for-the-badge&color=blue">
-</p>
+### Java Developer • AI & Machine Learning Enthusiast • Computer Vision Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Java+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;Embedded+Systems+Learner;Future+Software+Engineer" />
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-🎓 BE Electronics & Communication Engineering Student
+🎓 **B.E. Electronics & Communication Engineering**
 
-🏫 VSB Engineering College, Karur
+🏫 **VSB Engineering College, Karur**
 
-💻 Passionate about Java Development, Artificial Intelligence, Machine Learning and Embedded Systems.
+💻 Passionate about building intelligent applications using **Java, AI, Machine Learning, and Computer Vision.**
 
-🌱 Currently learning
+🌱 Currently Learning
 
-- Advanced Java
 - Spring Boot
+- Advanced Java
 - Machine Learning
 - Deep Learning
-- Computer Vision (YOLO)
+- YOLOv11
 - Streamlit
+- OpenCV
 
-🎯 Goal
+🎯 **Career Goal**
 
-Become a Software Engineer specializing in AI and Java Development.
+> Become a Software Engineer specializing in **Artificial Intelligence, Computer Vision, and Java Full Stack Development.**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/palmathew7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/palmathew">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:palmathew14@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+## 👨‍💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,c"/>
+
+</p>
 
 ---
 
-### AI / ML
+## 🤖 AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow"/>
+
+</p>
 
 - YOLOv11
-- OpenCV
-- Streamlit
-- Gemini API
-- Machine Learning
 - Computer Vision
+- Machine Learning
+- Deep Learning
+- Gemini API
+- Streamlit
 
 ---
 
-### Database
+## 🛠 Frameworks & Tools
 
-- MySQL
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,arduino"/>
 
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- Arduino IDE
-- Google Colab
+</p>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 ## 🚚 AI Powered Order Tracking Agent
 
-✔ AI Chatbot using Gemini API
+An intelligent shipment tracking system powered by AI.
 
-✔ Live Shipment Tracking
+### Features
 
-✔ Dashboard
+- 🤖 Gemini AI Chatbot
+- 📍 Live Shipment Tracking
+- 🗺 Interactive Maps
+- 🚚 Route Navigation
+- 📊 Analytics Dashboard
+- 📦 Order Management
 
-✔ Interactive Maps
+**Tech Stack**
 
-✔ Route Navigation
-
-✔ Streamlit Web App
-
-**Tech Used**
-
-Python • Streamlit • Gemini API • Folium • OSRM • Pandas
+Python • Streamlit • Gemini API • Pandas • Folium • OSRM
 
 ---
 
 ## 🛣 Road Risk Detection System
 
-Features
+An AI-powered road safety system using Computer Vision.
+
+### Features
 
 - Road Pothole Detection
 - Speed Breaker Detection
@@ -110,19 +127,19 @@ Features
 - Night Vision Assistance
 - Accident Prevention
 
-**Technology**
+**Tech Stack**
 
-YOLO • OpenCV • Python
+YOLOv11 • OpenCV • Python
 
 ---
 
 ## ⚡ Footstep Power Generation System
 
-A renewable energy project that generates electricity using piezoelectric sensors when people walk over the platform.
+Generates electrical energy using piezoelectric sensors from human footsteps.
 
-Technology
+### Technologies
 
-- Piezo Sensors
+- Piezoelectric Sensors
 - Embedded Systems
 - Energy Storage
 
@@ -130,21 +147,25 @@ Technology
 
 ## 🔒 Security Alert System
 
-Developed during Embedded Systems Internship.
+Embedded Systems Internship Project
 
-Features
+### Features
 
-- IR Sensor Detection
+- IR Sensor
 - Servo Motor
-- Arduino Programming
+- Arduino IDE
+- Automatic Security Alert
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=palmathew7&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=palmathew7&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=palmathew7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=palmathew7&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -152,7 +173,19 @@ Features
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmathew7&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmathew7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palmathew7&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -160,18 +193,20 @@ Features
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=palmathew7&theme=algolia&column=4"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=palmathew7&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
 </p>
 
 ---
 
 # 📜 Certifications
 
-✔ Java Foundation – Infosys Springboard
+🏅 Java Foundation – Infosys Springboard
 
-✔ Java Programming Fundamentals – Infosys Springboard
+🏅 Java Programming Fundamentals – Infosys Springboard
 
-✔ Artificial Intelligence – Infosys Springboard
+🏅 Artificial Intelligence – Infosys Springboard
 
 ---
 
@@ -185,26 +220,39 @@ Features
 
 🚀 Open Source Contributions
 
----
-
-# 📫 Connect with Me
-
-📧 Email: palmathew14@gmail.com
-
-🔗 LinkedIn: [palmathew](https://www.linkedin.com/in/palmathew)
-
-💻 GitHub: [palmathew7](https://github.com/palmathew7)
+🚀 Deep Learning
 
 ---
 
-# 💡 Quote
+# 🎯 Areas of Interest
 
-> "Code. Learn. Build. Repeat."
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Java Development
+- Embedded Systems
+- Full Stack Development
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-  <br>
-  If you like my projects, don't forget to <b>Star</b> them.
-</p>
+# 📌 Fun Fact
+
+> 💡 I enjoy solving real-world problems through AI, Java, and Embedded Systems while continuously learning new technologies.
+
+---
+
+# 💬 Favorite Quote
+
+> **"Code. Learn. Build. Repeat. Success follows consistency."**
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+![](https://komarev.com/ghpvc/?username=palmathew7&style=for-the-badge&color=blue)
+
+</div>
