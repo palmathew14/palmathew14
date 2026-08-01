@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Palmathew%20V&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Student%20%7C%20Java%20Developer%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=62&descSize=16" alt="Palmathew Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Palmathew%20V&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20|%20AI%20Engineer%20|%20Computer%20Vision&descAlignY=60"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Palmathew+V+%F0%9F%91%8B;Java+Developer+%7C+AI+Enthusiast;Computer+Vision+Developer;Building+Intelligent+Applications;Open+to+Software+Developer+Roles+%F0%9F%9A%80" alt="Typing SVG" width="75%" />
 </p>
 
-# 👋 Hey There!
+# 👋 Hey!!
 
 **I'm Palmathew V** — an Electronics & Communication Engineering student passionate about **Java Development, Artificial Intelligence, Machine Learning, Computer Vision, and Embedded Systems.**
 
