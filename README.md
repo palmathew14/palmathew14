@@ -240,15 +240,6 @@ Worked on an **Arduino-based Security Alert System** using IR Sensors and Servo 
 # 💬 Quote
 
 > **"Code. Learn. Build. Repeat. Every project is a step toward innovation."**
-
----
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=palmathew7&theme=algolia&column=4"/>
-
-</p>
-
 ---
 
 <p align="center">
