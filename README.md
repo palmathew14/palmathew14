@@ -7,7 +7,7 @@
 
 # 👋 Hey!!
 
-**I'm Palmathew V** — an Electronics & Communication Engineering student passionate about **Java Development, Artificial Intelligence, Machine Learning, Computer Vision, and Embedded Systems.**
+**I'm **Pal Mathew**, a B.E. Electronics & Communication Engineering student passionate about **Java Development, AI, SQL, and Problem Solving**. I enjoy building clean, efficient, and user-friendly software solutions that solve real-world problems. I continuously improve my skills in **Data Structures & Algorithms, Object-Oriented Programming, and modern development practices**. Through hands-on projects, I strengthen my technical and analytical abilities. I'm a quick learner with a growth mindset who enjoys collaborating with others and embracing new challenges. My goal is to contribute to innovative software development while continuously learning and growing as a developer.**
 
 I enjoy developing AI-powered applications, solving real-world problems, and continuously learning modern software technologies.
 
