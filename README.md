@@ -63,6 +63,17 @@ I enjoy developing AI-powered applications, solving real-world problems, and con
 
 </p>
 
+</details>
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palmathew14&theme=tokyo-night"/>
+
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+---
 
 # 👨‍💻 About Me
 
