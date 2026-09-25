@@ -50,17 +50,6 @@ I enjoy developing AI-powered applications, solving real-world problems, and con
 ---
 
 <details>
-<summary><b>📊 GitHub Statistics</b></summary>
-
-<br>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palmathew14&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=palmathew14&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
