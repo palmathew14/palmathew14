@@ -49,8 +49,6 @@ I enjoy developing AI-powered applications, solving real-world problems, and con
 
 ---
 
-<details>
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmathew14&layout=compact&theme=tokyonight&hide_border=true"/>
