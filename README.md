@@ -45,26 +45,6 @@ I enjoy developing AI-powered applications, solving real-world problems, and con
 
 <img src="https://img.shields.io/badge/Embedded%20Systems-BF91F3?style=for-the-badge"/>
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmathew14&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=palmathew14&style=for-the-badge&label=Profile+Views"/>
-
-<img src="https://img.shields.io/github/followers/palmathew14?style=for-the-badge&logo=github&label=Followers"/>
-
-</p>
-
-</details>
-
 ---
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=palmathew14&theme=tokyo-night"/>
